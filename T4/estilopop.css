@@ -1,0 +1,81 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color:white;
+  font-size: 100px;
+  height: 100vh;
+  font-family: sans-serif;
+  font-weight: bold;
+  
+}
+
+.pop-up {
+  border: 3px solid #000;
+  border-radius: 5px;
+  height: 400px;
+  width: 700px;
+  background: #40E0D0;
+  transition: all 0.3s ease;
+  position: absolute;
+  top: 110px;
+}
+
+
+.pop-up1 {
+  left: 50%;
+}
+
+.top-border {
+  background-image: url("Estrelado.png");
+  height: 22px;
+  border-bottom: 3px solid #000;
+  
+}
+
+.close-button {
+  height:10px;
+  width: 10px;
+  background: #40E0D0;
+  border-radius: 100%;
+  border: 3px solid;
+  border-color: #000;
+  position: relative;
+  top: 1.2px;
+  left: 670px;
+  
+  cursor: pointer;
+}
+.close-button2 {
+  height: 10px;
+  width: 10px;
+  background: #40E0D0;
+  border-radius: 100%;
+  border: 3px solid;
+  border-color: #000;
+  position: relative;
+  top: -15px;
+  left: 640px;
+  
+  cursor: pointer;
+}
+.close-button3 {
+  height: 10px;
+  width: 10px;
+  background: #40E0D0;
+  border-radius: 100%;
+  border: 3px solid;
+  border-color: #000;
+  position: relative;
+  top:-31px;
+  left: 610px;
+}
+.message {
+  
+  color: black;
+  font-size: 22px;
+  text-align: center;
+  line-height: 1.5;
+  font-family: sans-serif;
+  margin: 20px;
+}

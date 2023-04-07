@@ -1,0 +1,484 @@
+.container {
+  background-image: url('tabuleiro_final.jpeg');
+  background-repeat: no-repeat;
+  width: 1280px;
+  height: 720px;
+  margin: auto;
+  position: relative;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+
+  display: flex;
+  justify-content: center;
+
+}
+
+body {
+
+  background-image: url("Estrelado.png");
+}
+
+.cedula {
+
+  width: 106px;
+  height: 37px;
+  float: left;
+  margin-right: 8px;
+
+}
+
+#c0-J1 {
+
+  background-image: url('1.png');
+  background-repeat: no-repeat;
+  background-size: 35px 35px;
+  position: absolute;
+  left: 130px;
+  top: 600px;
+
+}
+
+#c1-J1 {
+
+  /*width: 109px;*/
+  width: 109px;
+  background-image: url('1.png');
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: 35px 35px;
+  left: -210px;
+  top: 600px;
+
+}
+
+#c2-J1 {
+
+  background-image: url('1.png');
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: 35px 35px;
+  left: -90px;
+  top: 600px;
+
+}
+
+#c3-J1 {
+
+  background-image: url('1.png');
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: 35px 35px;
+  left: 30px;
+  top: 600px;
+
+}
+
+#c4-J1 {
+
+  background-image: url('1.png');
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: 35px 35px;
+  left: 130px;
+  top: 600px;
+
+}
+
+#c5-J1 {
+
+  width: 107.5px;
+  background-image: url('1.png');
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: 35px 35px;
+  left: 250px;
+  top: 600px;
+
+}
+
+#c6-J1 {
+
+  width: 106px;
+  background-image: url('1.png');
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: 35px 35px;
+  left: 360px;
+  top: 600px;
+
+}
+
+#c7-J1 {
+
+  width: 107px;
+  background-image: url('1.png');
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: 35px 35px;
+  left: 485px;
+  top: 600px;
+
+}
+
+#c8-J1 {
+
+  width: 108.3px;
+  background-image: url('1.png');
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: 35px 35px;
+  left: 600px;
+  top: 600px;
+
+}
+
+#c9-J1 {
+
+  width: 110px;
+  background-image: url('1.png');
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: 35px 35px;
+  left: 755px;
+  top: 445px;
+
+}
+
+#c10-J1 {
+
+  width: 106px;
+  background-image: url('1.png');
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: 35px 35px;
+  left: 645px;
+  top: 445px;
+
+}
+
+#c11-J1 {
+
+  width: 106px;
+  background-image: url('1.png');
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: 35px 35px;
+  left: 545px;
+  top: 445px;
+
+}
+
+#c12-J1 {
+
+  width: 108px;
+  background-image: url('1.png');
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: 35px 35px;
+  left: 420px;
+  top: 445px;
+
+}
+
+#c13-J1 {
+
+  /*width: 109px;*/
+  width: 107px;
+  background-image: url('1.png');
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: 35px 35px;
+  left: 310px;
+  top: 445px;
+
+}
+
+#c14-J1 {
+
+  width: 107px;
+  background-image: url('1.png');
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: 35px 35px;
+  left: 200px;
+  top: 445px;
+
+}
+
+#c15-J1 {
+
+  width: 106px;
+  background-image: url('1.png');
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: 35px 35px;
+  left: 85px;
+  top: 445px;
+
+
+}
+
+#c16-J1 {
+
+  width: 111px;
+  background-image: url('1.png');
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: 35px 35px;
+  left: -30px;
+  top: 445px;
+
+}
+
+#c17-J1 {
+
+  width: 98px;
+  background-image: url('1.png');
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: 35px 35px;
+  left: -200px;
+  top: 285px;
+
+}
+
+#c18-J1 {
+
+  width: 106px;
+  background-image: url('1.png');
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: 35px 35px;
+  left: -85px;
+  top: 285px;
+
+}
+
+#c19-J1 {
+
+  width: 105px;
+  background-image: url('1.png');
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: 35px 35px;
+  left: 25px;
+  top: 285px;
+
+}
+
+#c20-J1 {
+
+  width: 109px;
+  background-image: url('1.png');
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: 35px 35px;
+  left: 145px;
+  top: 285px;
+
+}
+
+#c21-J1 {
+
+  width: 106px;
+  background-image: url('1.png');
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: 35px 35px;
+  left: 255px;
+  top: 285px;
+
+}
+
+#c22-J1 {
+
+  width: 107px;
+  background-image: url('1.png');
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: 35px 35px;
+  left: 375px;
+  top: 285px;
+
+}
+
+#c23-J1 {
+
+  width: 107px;
+  background-image: url('1.png');
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: 35px 35px;
+  left: 485px;
+  top: 285px;
+
+}
+
+#c24-J1 {
+
+  width: 124px;
+  background-image: url('1.png');
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: 35px 35px;
+  left: 615px;
+  top: 285px;
+
+}
+
+#c25-J1 {
+
+  width: 110px;
+  background-image: url('1.png');
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: 35px 35px;
+  left: 770px;
+  top: 130px;
+
+}
+
+#c26-J1 {
+
+  width: 106px;
+  background-image: url('1.png');
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: 35px 35px;
+  left: 650px;
+  top: 130px;
+
+}
+
+#c27-J1 {
+
+  width: 107px;
+  background-image: url('1.png');
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: 35px 35px;
+  left: 535px;
+  top: 130px;
+
+}
+
+#c28-J1 {
+
+  width: 107px;
+  background-image: url('1.png');
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: 35px 35px;
+  left: 420px;
+  top: 130px;
+
+}
+
+#c29-J1 {
+
+  width: 107px;
+  background-image: url('1.png');
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: 35px 35px;
+  left: 305px;
+  top: 130px;
+
+}
+
+#c30-J1 {
+
+  width: 106px;
+  background-image: url('1.png');
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: 35px 35px;
+  left: 190px;
+  top: 130px;
+
+}
+
+#c31-J1 {
+
+  width: 106px;
+  background-image: url('1.png');
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: 35px 35px;
+  left: 75px;
+  top: 130px;
+
+}
+
+#c32-J1 {
+
+  width: 110px;
+  background-image: url('1.png');
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: 35px 35px;
+  left: -45px;
+  top: 130px;
+
+}
+
+#c33-J1 {
+
+  width: 110px;
+  background-image: url('1.png');
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: 35px 35px;
+  left: -155px;
+  top: 130px;
+
+}
+
+@font-face {
+    font-family: "joystix";
+    src: url("joystix.ttf") format("truetype"); 
+}
+
+.Audiowide-font {
+    font-family: "joystix";
+}
+
+.jogarDado {
+    font-size: 18px;
+    font-family: "joystix";
+    border: none;
+    padding: 10px;
+    width: 200px;
+    margin-left: 70px;
+    cursor: pointer;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 15px;
+}    
+
+.jogarDado-IndianRed2 {
+    background: #E04664;
+    color: #fff;
+    box-shadow: 0 5px 0 rgb(116, 37, 67);
+}
+
+.jogarDado-IndianRed2:hover {
+    background: rgb(116, 37, 67);
+    color: #fff;
+    box-shadow: 0 5px 0 rgb(100, 26, 45);
+}
+
+.jogarDado-IndianRed2:active {
+    position: relative;
+    top: 5px;
+    box-shadow: none;
+}
+
+div#log {
+  position: absolute;
+  
+}

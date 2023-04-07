@@ -1,0 +1,35 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	background-image: url("ganhador.jpeg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	max-width: 1920px;
+	width: 100%;
+	height: auto;
+	max-height: 1080px;
+	min-height: auto;
+	background-size: 100%;
+}
+
+
+
+@font-face {
+    font-family: "joystix";
+    src: url("joystix.ttf") format("truetype"); 
+}
+
+.Joystix-font {
+    font-family: "joystix";
+}
+
+#titulo {
+	font-size: 30px;
+	font-family: joystix;
+	color: #FFFFFF;
+	margin-top: 50px;
+	text-align: center;
+}

@@ -1,0 +1,267 @@
+* { margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url("pagInicial.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    max-width: 1920px;
+    width: 100%;
+    max-height: 1080px;
+    height: auto;
+    min-height: auto;
+    background-size: 100%;
+}
+
+@font-face {
+    font-family: "Audiowide";
+    src: url("Audiowide.ttf") format("truetype"); 
+}
+
+.Audiowide-font {
+    font-family: "Audiowide";
+}
+
+@font-face {
+    font-family: "joystix";
+    src: url("joystix.ttf") format("truetype"); 
+}
+
+.Audiowide-font {
+    font-family: "joystix";
+}
+
+#titulo {
+    margin-top: 50px;
+    font-size: 130px;
+    font-family: "Audiowide";
+    color: #DABED5;
+    text-align: center;
+}
+
+.botao {
+    font-size: 80px;
+    font-family: "joystix";
+    font-weight: 600;
+    border: none;
+    padding: 10px;
+    width: 315px;
+    height: 130px;
+    cursor: pointer;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 20px;
+}    
+
+.botao-IndianRed2 {
+    background: #E04664;
+    color: #fff;
+    box-shadow: 0 5px 0 rgb(116, 37, 67);
+}
+
+.botao-IndianRed2:hover {
+    background: rgb(116, 37, 67);
+    color: #fff;
+    box-shadow: 0 5px 0 rgb(100, 26, 45);
+}
+
+.botao-IndianRed2:active {
+    position: relative;
+    top: 5px;
+    box-shadow: none;
+}
+
+
+.botao2 {
+    font-size: 25px;
+    font-family: "joystix";
+    font-weight: 600;
+    border: none;
+    padding: 20px;
+    width: 190px;
+    cursor: pointer;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 20px;
+}    
+
+.botao2-IndianRed2 {
+    background: #E04664;
+    color: #DABED5;
+    box-shadow: 0 5px 0 rgb(116, 37, 67);
+}
+
+.botao2-IndianRed2:hover {
+    background: rgb(116, 37, 67);
+    color: #DABED5;
+    box-shadow: 0 5px 0 rgb(100, 26, 45);
+}
+
+.botao2-IndianRed2:active {
+    position: relative;
+    top: 5px;
+    box-shadow: none;
+}
+
+#regras {
+    margin-left: 120px;
+    margin-right: 120px;
+    font-family: Arial;
+    font-size: 25px;
+    color: #FFFFFF;
+    text-align: justify;
+    border: 20px solid transparent;
+    border-radius: 15px;
+}
+
+.botaoRegras {
+    font-size: 25px;
+    font-family: Arial;
+    font-weight: 100;
+    text-align: center;
+    border: none;
+    padding: 20px;
+    width: 180px;
+    cursor: pointer;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 20px;
+}    
+
+.botaoRegras-IndianRed2 {
+    background: #E04664;
+    color: #DABED5;
+    box-shadow: 0 5px 0 rgb(116, 37, 67);
+}
+
+.botaoRegras-IndianRed2:hover {
+    background: rgb(116, 37, 67);
+    color: #DABED5;
+    box-shadow: 0 5px 0 rgb(100, 26, 45);
+}
+
+.botaoRegras-IndianRed2:active {
+    top: 5px;
+    box-shadow: none;
+}
+
+#creditos {
+    margin-left: 120px;
+    margin-right: 120px;
+    font-family: Arial;
+    font-size: 25px;
+    color: #FFFFFF;
+    text-align: justify;
+    margin-top: 25px;
+}
+
+.botaoCredito {
+    font-size: 25px;
+    font-family: Arial;
+    font-weight: 100;
+    text-align: center;
+    border: none;
+    padding: 20px;
+    width: 180px;
+    cursor: pointer;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 20px;
+    margin-top: 50px;
+}    
+
+.botaoCredito-IndianRed2 {
+    background: #E04664;
+    color: #DABED5;
+    box-shadow: 0 5px 0 rgb(116, 37, 67);
+}
+
+.botaoCredito-IndianRed2:hover {
+    background: rgb(116, 37, 67);
+    color: #DABED5;
+    box-shadow: 0 5px 0 rgb(100, 26, 45);
+}
+
+.botaoCredito-IndianRed2:active {
+    top: 5px;
+    box-shadow: none;
+}
+
+#historia {
+    margin-left: 120px;
+    margin-right: 120px;
+    font-family: Arial;
+    font-size: 25px;
+    color: #FFFFFF;
+    text-align: justify;
+    margin-top: 30px;
+}
+
+.botaoHistoria {
+    font-size: 25px;
+    font-family: Arial;
+    font-weight: 100;
+    text-align: center;
+    border: none;
+    padding: 20px;
+    width: 180px;
+    cursor: pointer;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 20px;
+    margin-top: 0px;
+}    
+
+.botaoHistoria-IndianRed2 {
+    background: #E04664;
+    color: #DABED5;
+    box-shadow: 0 5px 0 rgb(116, 37, 67);
+}
+
+.botaoHistoria-IndianRed2:hover {
+    background: rgb(116, 37, 67);
+    color: #DABED5;
+    box-shadow: 0 5px 0 rgb(100, 26, 45);
+}
+
+.botaoHistoria-IndianRed2:active {
+    top: 5px;
+    box-shadow: none;
+}
+
+.botaoHistoria2 {
+    font-size: 25px;
+    font-family: Arial;
+    font-weight: 100;
+    text-align: center;
+    border: none;
+    padding: 20px;
+    width: 180px;
+    cursor: pointer;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 20px;
+    margin-top: 15px;
+}    
+
+.botaoHistoria2-IndianRed2 {
+    background: #E04664;
+    color: #DABED5;
+    box-shadow: 0 5px 0 rgb(116, 37, 67);
+}
+
+.botaoHistoria2-IndianRed2:hover {
+    background: rgb(116, 37, 67);
+    color: #DABED5;
+    box-shadow: 0 5px 0 rgb(100, 26, 45);
+}
+
+.botaoHistoria2-IndianRed2:active {
+    top: 5px;
+    box-shadow: none;
+}
+
+
+
+
