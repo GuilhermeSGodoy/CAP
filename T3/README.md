@@ -4,5 +4,5 @@ Desenvolvimento de um programa em C que recebe dois arquivos .txt como entrada: 
 
 Trabalho desenvolvido por:
 - Guilherme Santos de Godoy - 758710
-- Lara Santiago Rodrigues RA: 769701
-- Paula Martins Larocca RA: 769705
+- Lara Santiago Rodrigues - 769701
+- Paula Martins Larocca - 769705
