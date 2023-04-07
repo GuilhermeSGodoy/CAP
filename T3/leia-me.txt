@@ -1,0 +1,68 @@
+
+AVISO IMPORTANTE: Antes de executar o programa, leia as INFORMAÇÕES GERAIS PARA USO!!!!!!!
+
+	                   					  ***************************************************
+        	           					  *    Gerador e Buscador de Caça-Palavras. V1.0    *
+                	   					  * (c) 2019 por G. Godoy, L. Rodrigues e P. Larocca*
+                   						  *   LEIA-ME.TXT - Documento do Programa           *
+                   						  ***************************************************
+_______________________________________________________________________________________________________________________________________________________________________________
+                                                                             INFORMAÇÕES GERAIS PARA USO
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- O programa Gerador e Buscador de Caça-Palavras contém funções específicas para o sistema operacional Windows, portanto, não funciona adequadamente em outros sistemas operaci-
+onais.
+- A distribuição do programa é realizada através de uma pasta .zip, contendo o arquivo .c e o arquivo .txt. Estes arquivos não devem ser desmembrados.
+- Existem arquivos de caça- palavras e lista de palavras com a temárica PALMEIRAS ofertados como exemplo na pasta .zip contendo o programa. 
+- O programa Gerador e Buscador de Caça-Palavras apresenta sua melhor execução na IDE Dev-C++, versão 4.9.9.2, perfeitamente corrigida para problemas de compilação/execuçao. 
+Saiba mais em (http://www.jpsiqueira.com.br/artigos/101-dev-c-como-instalar-e-resolver-problemas-com-windows-10).
+- Para realizar a abertura de arquivos no programa é requerido:
+	- Uso de arquivo na extensão .txt;
+	- Existência do arquivo no mesmo diretório do programa;
+	- Digitação no momento requisitado usando o seguinte formato: "nomedoarquivo.txt".
+- O programa tolera a geração de caça-palavras usando números e caracteres, no entando, estes devem conter apenas um elemento por posição. (EX: é possível usar 1 ou c, mas não 
+  12 ou ca).
+- O programa Gerador e Buscador de Caça-Palavras é escrito na linguagem C e todos os testes devem estar adaptados para tal.
+_______________________________________________________________________________________________________________________________________________________________________________
+                                                                           DADOS DA PROCEDÊNCIA DO PROGRAMA
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+INSTITUIÇÃO: UNIVERSIDADE FEDERAL DE SÃO CARLOS — UFSCAR
+CURSO: Bacharelado em Ciência da Computação
+DISCIPLINA: Construçãode Algorítmos e Programação
+DOCENTE RESPONSÁVEL: Prof. Dr. Ricardo Ciferri 
+COLABORAÇÕES: Prof. Dr. Ednaldo Brigante Pizzolato
+
+Trabalho 3 - Criação de um programa de Caça-Palavras
+
+ALUNOS/CRIADORES:
+	- Guilherme Godoy, R.A nº758710
+	- Lara Santiago Rodrigues, R.A nº769701
+	- Paula Larocca, R.A nº769705 
+_______________________________________________________________________________________________________________________________________________________________________________
+                                                                                  OBJETIVO PROGRAMA
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------   
+- O objetivo direto do programa Gerador e Buscador de Caça-Palavras é satisfazer os critérios do Trabalho 3, elaborado pelo Prof. Dr. Ricardo Ciferri, em colaboração com o
+Prof. Dr. Ednaldo Brigante Pizzolato.
+Assim, o código pretende gerar três tipos de caça-palavras, para os quais são possíveis 4 tipos de geração de lista de palavras. Ainda, é necessário que o programa confira se
+as palavras listadas estão ou não contidas na função.
+Em níveis mais aprofundados, o programa pretende demonstrar o domínio adquirido pelos alunos para criação, manipulação e documentação de funções, procedimentos e outras habili-
+dades trabalhadas na disciplina de Construçãode Algorítmos e Programação. 
+_______________________________________________________________________________________________________________________________________________________________________________
+                                                                                    AUTORIZAÇÕES
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------   
+- O programa Gerador e Buscador de Caça-Palavras pode ser executado por qualquer usuário.
+- Cópia sem requisição prévia não pode ser realizada, exceto se feita pelo docente e/ou alunos responsáveis pela criação deste programa.
+- Alterações no código do programa não podem ser realizadas, exceto se feitas pelo docente e/ou alunos responsáveis pela criação deste programa.
+- Divulgação do código ou de suas partes sem notificação prévia não pode ser realizada, exceto se feita pelo docente e/ou alunos responsáveis pela criação deste programa.
+_______________________________________________________________________________________________________________________________________________________________________________
+                                                                                      CONTATO 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------   
+- Contatos para tratar de assuntos referentes ao programa, ao código, sua alteração ou compartilhamento devem ser realizados através dos seguintes meios: 
+	- Guilherme Godoy (E-MAIL: guilhermesantosdegodoy@gmail.com)
+	- Lara Santiago Rodrigues (E-MAIL: lara-1425@hotmail.com)
+	- Paula Larocca (E-MAIL: paula.mlarocca@gmail.com)
+_______________________________________________________________________________________________________________________________________________________________________________                                                                                    
+                                                                                    DIVIRTA-SE! :)
+
+Abraços fraternos,
+
+A equipe.                                                                                  
